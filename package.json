@@ -1,7 +1,7 @@
 {
   "name": "goit-react-hw-04-hooks-feedback",
   "version": "0.1.0",
-  "homepage": "https:/AnatoliyDanets.github.io/goit-react-hw-04-hooks-feedback",
+  "homepage": "https://AnatoliyDanets.github.io/goit-react-hw-04-hooks-feedback",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
